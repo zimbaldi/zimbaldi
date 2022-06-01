@@ -4,7 +4,7 @@
 - 📫 How to reach me linkedin.com/in/italo-zimbaldi
 
 - Mechatronic Technician - Colégio Politécnico 'Bento Quirino'
-- Eletrotecnic Technician - ETEC 'Bento Quirino'
+- Eletrotechnical Technician - ETEC 'Bento Quirino'
 - Santander Bootcamp - Mobile Development Android/Kotlin - in progress
 - Udemy - Android Development in Java - in progress
 
