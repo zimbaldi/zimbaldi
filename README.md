@@ -5,8 +5,11 @@
 
 - Mechatronic Technician - Colégio Politécnico 'Bento Quirino'
 - Eletrotechnical Technician - ETEC 'Bento Quirino'
-- Santander Bootcamp - Mobile Development Android/Kotlin
 - Udemy - Android Development in Java - in progress
+- Santander Bootcamp - Mobile Development Android/Kotlin - Complete
+
+![https://github.com/zimbaldi/zimbaldi/blob/main/SantanderMobile.png](SantanderMobile.png)
+
 
 
 
