@@ -5,12 +5,13 @@
 
 - Mechatronic Technician - Colégio Politécnico 'Bento Quirino'
 - Eletrotechnical Technician - ETEC 'Bento Quirino'
-- Udemy - Android Development in Java - in progress
+- Flutter Specialist - in Progress
 - Santander Bootcamp - Mobile Development Android/Kotlin - Complete
+- Kotlin Experience - Digital Innovation One - Complete
 
 ![https://github.com/zimbaldi/zimbaldi/blob/main/SantanderMobile.png](SantanderMobile.png)
 
-
+![https://github.com/zimbaldi/zimbaldi/blob/main/KotlinExperience.png](KotlinExperience.png)
 
 
 <!---
