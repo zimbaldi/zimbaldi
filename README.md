@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Italo @zimbaldi
 - 👀 I’m interested in mobile development, 3D Printing, Raspberry Pi and related stuff
-- I’m currently learning Java/Kotlin for Android and Flutter for cross platform iOS/Android
+- I’m currently learning Flutter for cross platform iOS/Android
 - You can reach me linkedin.com/in/italo-zimbaldi
 
 - Mechatronic Technician - Colégio Politécnico 'Bento Quirino'
